@@ -13,7 +13,7 @@ import { FormHandles } from '@unform/core';
 import * as Yup from 'yup';
 
 import Icon from 'react-native-vector-icons/Feather';
-import ImagePicker from 'react-native-image-picker';
+// import ImagePicker from 'react-native-image-picker';
 import { useAuth } from '../../hooks/auth';
 import api from '../../services/api';
 
